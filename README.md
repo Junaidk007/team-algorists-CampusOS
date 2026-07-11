@@ -91,9 +91,9 @@ CampusOS transforms fragmented campus operations into one intelligent platform. 
 
 ---
 
-# Prototype  
+# Prototype/Deployed
 
-**Link:**
+**Link:** https://team-algorists-campus-os.vercel.app/
 
 ---
 
